@@ -1,5 +1,5 @@
 ##  Assignments
 
-|   #   | Folder Link | Assignment Description |
+|   #   | Title | Description |
 | :---: | ----------- | ---------------------- |
-|     0   | link 0      | description 0        |
+|   P01   | Program 1     | Create and run a Go Program.        |
