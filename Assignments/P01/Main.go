@@ -1,7 +1,11 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+
+	"github.com/BKoch74/4143-PLC/mascot"
+)
 
 func main() {
-	fmt.Println()
+	fmt.Println(mascot.BestMascot())
 }
