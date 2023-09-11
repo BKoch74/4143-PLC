@@ -14,9 +14,9 @@
 
 ### Instructions
 
-- 
+- Create a file inside the program directory named "mascot" and place the "mascot.go" and "mascot_test.go" files inside of it.
 
 
 
 - Example Command:
-
+go run main.go
