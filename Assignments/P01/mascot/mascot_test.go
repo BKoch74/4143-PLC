@@ -7,7 +7,7 @@ import (
 )
 
 func TestMascot(t *testing.T) {
-	if mascot.BestMascot() != "Eagle" {
+	if mascot.BestMascot() != "Lion" {
 		t.Fatal("Wrong mascot!")
 	}
 }

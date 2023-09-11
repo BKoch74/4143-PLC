@@ -20,6 +20,7 @@ right mascot is being defined as the best mascot. If not, an error message is di
 
 - Make sure the "mascot.go" and "mascot_test.go" are inside of the mascot package (folder).
 - Must have the go.mod file inside of the program directory outside of the mascot folder.
+- Click on the run test button inside of the test function.
 
 
 - Example Command:

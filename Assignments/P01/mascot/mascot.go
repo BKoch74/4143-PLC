@@ -1,5 +1,5 @@
 package mascot
 
 func BestMascot() string {
-	return "Lion"
+	return "Moose"
 }
