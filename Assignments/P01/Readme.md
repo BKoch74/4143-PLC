@@ -2,6 +2,9 @@
 ### Bryce Koch
 ### Description:
 
+This program uses a go package to define the best mascot. Using the main.go package, the 
+best mascot is printed out to the console. A test package is used to verify that the 
+right mascot is being defined as the best mascot. If not, an error message is displayed.
 
 
 ### Files
@@ -9,12 +12,12 @@
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
 |   1   | [Main.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P01/Main.go)      | Main file for my program.      |
-|   2   | [mascot.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P01/mascot.go)  | File that contains the mascot information.   |
-|   3   | [mascot_test.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P01/mascot_test.go) | Function that tests for the coreect best mascot. |
+|   2   | [mascot]()  | Folder that stores the mascot.go and mascot_test.go packages.   |
+
 
 ### Instructions
 
-- Create a folder inside the program directory named "mascot" and place the "mascot.go" and "mascot_test.go" files inside of it.
+- Make sure the "mascot.go" and "mascot_test.go" are inside of the mascot folder.
 
 
 
