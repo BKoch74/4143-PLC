@@ -12,7 +12,7 @@ right mascot is being defined as the best mascot. If not, an error message is di
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
 |   1   | [Main.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P01/Main.go)      | Main file for my program.      |
-|   2   | [mascot]()  | Folder that stores the mascot.go and mascot_test.go packages.   |
+|   2   | [mascot](https://github.com/BKoch74/4143-PLC/tree/main/Assignments/P01/mascot)  | Folder that stores the mascot.go and mascot_test.go packages.   |
 
 
 ### Instructions
