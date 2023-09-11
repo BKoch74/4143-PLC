@@ -13,12 +13,13 @@ right mascot is being defined as the best mascot. If not, an error message is di
 | :---: | ---------------- | -------------------------------------------------- |
 |   1   | [Main.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P01/Main.go)      | Main file for my program.      |
 |   2   | [mascot](https://github.com/BKoch74/4143-PLC/tree/main/Assignments/P01/mascot)  | Folder that stores the mascot.go and mascot_test.go packages.   |
+| 3 | [go.mod](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P01/go.mod) | Initialized module file. |
 
 
 ### Instructions
 
 - Make sure the "mascot.go" and "mascot_test.go" are inside of the mascot folder.
-
+- Must have the go.mod file inside of the program directory outside of the mascot folder.
 
 
 - Example Command:
