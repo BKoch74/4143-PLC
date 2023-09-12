@@ -12,8 +12,9 @@ right mascot is being defined as the best mascot. If not, an error message is di
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
 |   1   | [Main.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P01/Main.go)      | Main file for my program.      |
-|   2   | [mascot](https://github.com/BKoch74/4143-PLC/tree/main/Assignments/P01/mascot)  | Package that contains mascot.go and mascot_test.go   |
-| 3 | [go.mod](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P01/go.mod) | Initialized module file. |
+|   2   | [mascot.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P01/mascot/mascot.go)  | File that contains the mascot information.   |
+|   3   | [mascot_test.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P01/mascot/mascot_test.go) | Test file that checks for the correct best mascot name. |
+| 4 | [go.mod](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P01/go.mod) | Initialized module file. |
 
 
 ### Instructions
