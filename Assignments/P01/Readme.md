@@ -25,4 +25,4 @@ right mascot is being defined as the best mascot. If not, an error message is di
 
 
 - Example Command:
-  - 'go run main.go'
+  - go run main.go
