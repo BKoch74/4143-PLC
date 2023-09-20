@@ -12,6 +12,7 @@ type ImageManipulator struct {
 	ImagePath string // Add a field to store the image path
 }
 
+// NewImageManipulatorWithImage loads an existing image and creates an ImageManipulator instance.
 func NewImageManipulatorWithImage(imagePath string) (*ImageManipulator, error) {
 	img, err := gg.LoadImage(imagePath)
 	if err != nil {
