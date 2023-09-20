@@ -22,7 +22,7 @@ mustangs in the photo with a black line.
 
 ### Instructions
 
-- The mustangs.jpg needs to be in the main directory.
+- The mustangs.jpg needs to be in the imagemod folder.
 - The github.com/fogleman/gg package must be installed using the command line go get.
 
 
