@@ -12,12 +12,12 @@ mustangs in the photo with a black line.
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
 |   1   |  [imagemod](https://github.com/BKoch74/4143-PLC/tree/main/Assignments/P02/imagemod) | Folder that contains the entire program. |
-|   1   | [Main.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/main.go)      | Main file for my program.      |
-|   2   | [imageManipulator](https://github.com/BKoch74/4143-PLC/tree/main/Assignments/P02/imagemod/imageManipulator)  | File that contains image manipulating instructions.   |
-|   3   | [imageManipulator.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/imageManipulator/imageManipulator.go) | File that gets and manipulates the mustangs image. |
-| 4 | [go.mod](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/go.mod) | Initialized module file. |
-| 5 | [mustangs.jpg](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/mustangs.jpg) | Mustangs picture being manipulated. |
-| 6 | [mustangs.png](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/mustangs.png) | Mustangs picture after being manipulated. |
+|   2   | [Main.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/main.go)      | Main file for my program.      |
+|   3   | [imageManipulator](https://github.com/BKoch74/4143-PLC/tree/main/Assignments/P02/imagemod/imageManipulator)  | File that contains image manipulating instructions.   |
+|   4   | [imageManipulator.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/imageManipulator/imageManipulator.go) | File that gets and manipulates the mustangs image. |
+| 5 | [go.mod](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/go.mod) | Initialized module file. |
+| 6 | [mustangs.jpg](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/mustangs.jpg) | Mustangs picture being manipulated. |
+| 7 | [mustangs.png](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/mustangs.png) | Mustangs picture after being manipulated. |
 
 
 ### Instructions
