@@ -12,6 +12,7 @@ manipulate a downloaded .jpg file.
 | :---: | ----------- | ---------------------- |
 |   1 | [Image_Ascii_Art](https://github.com/BKoch74/Image_Ascii_Art) | The repository where the modules are being imported.|
 |    2| [ColorTest](https://github.com/BKoch74/4143-PLC/tree/main/Assignments/P03/ColorTest) | Folder that contains the main.go file and the input/output|
+|  3  | [main.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P03/ColorTest/main.go) | The main file of this project. Implements all of the imported functions. |
 
 ### Instructions
 
