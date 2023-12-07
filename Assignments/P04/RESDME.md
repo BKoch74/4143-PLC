@@ -11,8 +11,8 @@ will be made between the concurrency download and a sequential download.
 
 |   #   | File             | Description                                        |
 | :---: | ---------------- | -------------------------------------------------- |
-|   1   | [Main.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/main.go)      | Main file for my program.      |
-| 2 | [go.mod](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P02/imagemod/go.mod) | Initialized module file. |
+|   1   | [Main.go](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P04/Image_Downloader/go.mod)      | Main file for my program.      |
+| 2 | [go.mod](https://github.com/BKoch74/4143-PLC/blob/main/Assignments/P04/Image_Downloader/go.mod) | Initialized module file. |
 
 
 ### Instructions
